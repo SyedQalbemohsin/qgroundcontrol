@@ -241,6 +241,36 @@ The settings are:
 - **Max Storage Usage**: Maximum video file storage before video files are auto deleted.
 - **Video File Format**: File format for the saved video recording: mkv, mov, mp4.
 
+## Setup Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/setup%20checklist.1.PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Compliance Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/compliance%20checklist...PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Testing Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Testing%20Checklist...PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Safety Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Safety%20checklist%201..PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Safety%20checklist%202..PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Trouble Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Troubleshooting%20checklist%201..PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Troubleshooting%20checklist%202..PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Pre-Flight Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Preflight%20Checklist..1..PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Preflight%20Checklist..2..PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Post-Flight Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Post%20flight%20checklist...PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Routine Maintenance Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Routine%20maintenance%20checklist...PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
+## Repair Checklist
+<img src="https://github.com/SyedQalbemohsin/qgroundcontrol/blob/master/Repair%20Checklist...PNG?raw=true/main/Images/Setup%20Checklist.JPG" alt="Setup Checklist">
+
 ## Brand Image
 
 This setting specifies the _brand image_ used for indoor/outdoor colour schemes.
